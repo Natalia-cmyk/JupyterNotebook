@@ -1,2 +1,2 @@
 # JupyterNotebook
-Laboratorio práctico: Cree su cuaderno Jupyter
+Final Assignment Instructions: Create and Share Your Jupyter Notebook
